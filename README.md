@@ -153,6 +153,7 @@ This Challenge is graded based on the following criteria:
 * Repository contains quality README file with description, screenshot, and link to deployed application
 
 ## Review
+<img width="1189" alt="image" src="https://github.com/hirasoomroo/Editorinprogress/assets/120343929/3f540f22-fb08-4614-9740-0dfb02cdc3bd">
 
 You are required to submit the following for review:
 
