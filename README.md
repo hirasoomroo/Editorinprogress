@@ -1,24 +1,24 @@
 # Editorinprogress
-# 19 Progressive Web Applications (PWA): Text Editor
+# Module 19 Progressive Web Applications (PWA): Text Editor
 
 ## Your Task
  Building a text editor that runs in the browser. Progressive web application is important and you will use certain data persistance techniques so this application can run offline.
 
 To build this text editor, you will start with an existing application and implement methods for getting and storing data to an IndexedDB database. You will use a package called `idb`, which is a lightweight wrapper around the IndexedDB API. 
 
-You will deploy this full-stack application to Heroku using the [Heroku Deployment Guide on The Full-Stack Blog](https://coding-boot-camp.github.io/full-stack/heroku/heroku-deployment-guide).
+
 
 ## User Story
 
-```md
+
 AS A developer
 I WANT to create notes or code snippets with or without an internet connection
 SO THAT I can reliably retrieve them for later use
-```
+
 
 ## Acceptance Criteria
 
-```md
+
 GIVEN a text editor web application
 
 WHEN I open my application in my editor
