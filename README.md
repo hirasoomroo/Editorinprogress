@@ -157,7 +157,7 @@ This Challenge is graded based on the following criteria:
 
 You are required to submit the following for review:
 
-* The URL of the deployed application: 
+* The URL of the deployed application: https://editorinprogress.herokuapp.com/
 
 * The URL of the GitHub repository: https://github.com/hirasoomroo/Editorinprogress
 - - -
